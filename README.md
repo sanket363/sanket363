@@ -61,4 +61,9 @@ I am a DevOps Engineer from India.
 
 ### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
+- [Streamlining Your Development with AWS DevOps: A Guide to CI/CD Pipelines](https://devopsknowledge.hashnode.dev/streamlining-your-development-with-aws-devops-a-guide-to-cicd-pipelines)
+- [IaC vs Configuration Management: Understanding the Differences and Choosing the Right Tool for Modern Infrastructure Management](https://devopsknowledge.hashnode.dev/iac-vs-configuration-management-understanding-the-differences-and-choosing-the-right-tool-for-modern-infrastructure-management)
+- [Kubernetes Important Interview Questions: What You Need to Know](https://devopsknowledge.hashnode.dev/kubernetes-important-interview-questions-what-you-need-to-know)
+- [Nginx and Docker for Hosting a Notes App on Ubuntu](https://devopsknowledge.hashnode.dev/nginx-and-docker-for-hosting-a-notes-app-on-ubuntu)
+- [Exploring the Different DevOps Tools and Their Use Cases](https://devopsknowledge.hashnode.dev/exploring-the-different-devops-tools-and-their-use-cases)
 <!-- BLOG-POST-LIST:END -->
