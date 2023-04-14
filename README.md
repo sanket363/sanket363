@@ -24,8 +24,4 @@ I am a DevOps Engineer from India.
 
 - :telescope: I work as a DevOps Engineer and specialize in the deployment, automation, and monitoring of web applications. I collaborate with both frontend and backend development teams to ensure the smooth and efficient delivery of software products.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Sanket-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sanket-bhalke-devops/)
