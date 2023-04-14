@@ -22,7 +22,7 @@
 :technologist:
 I am a DevOps Engineer from India.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I work as a DevOps Engineer and specialize in the deployment, automation, and monitoring of web applications. I collaborate with both frontend and backend development teams to ensure the smooth and efficient delivery of software products.
 
 - :seedling: Exploring Technical Content Writing.
 
