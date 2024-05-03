@@ -1,8 +1,8 @@
  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Sanket Bhalke currently working as **DevOps Engineer**</h1>
+<h1 align="center">Hi 👋, I'm Sanket Bhalke currently working as DevOps Engineer</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanket363&label=Profile%20views&color=0e75b6&style=flat" alt="sanket363" /> </p>
 
-#- 🔭 I’m currently working as **DevOps Engineer**
+
 
 - 📫 How to reach me **sanketbhalke1234@gmail.com**
 - 📝 I regularly write articles on **https://devopsknowledge.hashnode.dev/**
