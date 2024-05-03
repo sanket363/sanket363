@@ -50,4 +50,12 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanket363&theme=dracula" height="180em" />
 </div>
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+###
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
