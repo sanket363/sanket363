@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **sanketbhalke1234@gmail.com**
 - 📝 I regularly write articles on [**Blogs**](https://devopsknowledge.hashnode.dev/)
-- 📄 My Resume [**Resume**](https://drive.google.com/file/d/1NmrZlXoGbKiaqUT3JwRO2J3iG12C5hB4/view?usp=sharing)
-- 📄 Know about my experiences [**Portfolio**](https://portfolio-sanket363s-projects.vercel.app/)
 
 <div> <a href="https://www.linkedin.com/in/sanket-bhalke-devops/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/sanket363" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
